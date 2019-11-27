@@ -56,7 +56,8 @@
   outline: none;
   width: 120px;
   height: 45px;
+  margin-top: 10px;
   font-size: 22px;
   letter-spacing: 1px;
-  background: #grey;
+  background: #ddd;
 }
